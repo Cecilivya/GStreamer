@@ -8,3 +8,4 @@ prefix/
 pygobject
 .gdbinit
 deps/
+subprojects/
