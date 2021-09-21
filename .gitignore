@@ -9,3 +9,4 @@ pygobject
 .gdbinit
 deps/
 subprojects/
+buildDir/
